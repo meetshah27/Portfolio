@@ -34,9 +34,7 @@ This is my personal developer portfolio — a central place to explore my projec
 ---
 🌐 Live Preview
 
-Coming soon (or insert your live site URL here if deployed)!
-
-<!-- Example --> <!-- [🌍 Live Portfolio](https://meetshah27.github.io/Portfolio) -->
+https://meetshah27.vercel.app
 
 🧠 Highlights & Learnings
 
